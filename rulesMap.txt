@@ -1,0 +1,16 @@
+1 H17 Surr RSA NormGambler 1 3 5
+2 H17 Surr NoRSA NormGambler 1 3 5
+3 H17 NoSurr RSA NormGambler 1 3 5
+4 H17 NoSurr NoRSA NormGambler 1 3 5
+5 H17 Surr RSA CrazyGambler 1 4 5
+6 H17 Surr NoRSA CrazyGambler 1 4 5
+7 H17 NoSurr RSA CrazyGambler 1 4 5
+8 H17 NoSurr NoRSA CrazyGambler 1 4 5
+9 S17 Surr RSA NormGambler 2 3 6
+10 S17 Surr NoRSA NormGambler 2 3 6
+11 S17 NoSurr RSA NormGambler 2 3 6
+12 S17 NoSurr NoRSA NormGambler 2 3 6
+13 S17 Surr RSA CrazyGambler 2 4 6
+14 S17 Surr NoRSA CrazyGambler 2 4 6
+15 S17 NoSurr RSA CrazyGambler 2 4 6
+16 S17 NoSurr NoRSA CrazyGambler 2 4 6
